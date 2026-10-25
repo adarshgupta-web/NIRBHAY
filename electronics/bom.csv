@@ -1,0 +1,10 @@
+component,part,qty,source,unit_inr
+Controller,ESP32-VROOM-32D DevKit,1,in hand,
+Servo,TowerPro MG996R,6+,in hand,
+Gas sensor,MQ-2 module,1,in hand,
+Temp probe,DS18B20 waterproof,1,in hand,
+LoRa,SX1278 module,,,
+SBC + camera,Raspberry Pi Zero 2 W + camera (confirm),1,,
+Buck converters,6 V >=5 A and 5 V >=3 A,2,,
+Battery,2S Li-ion/LiPo + fuse,1,,
+Pogo pins,6-pin 2x3 face,5,,
